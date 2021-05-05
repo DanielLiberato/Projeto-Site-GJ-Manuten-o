@@ -1,0 +1,89 @@
+.photoSlide{
+	max-height: 500px;
+    
+}
+
+.photoCard{
+	height: 200px;
+}
+
+.maps{
+	max-height: 400px;
+}
+
+.photoEmpresas{
+	height: 120px;
+	width: 130px;
+}
+
+.caixa {
+	padding: 3.8rem 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+body{
+    background-color: white;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+}
+
+.homeCor{
+	background:rgb(1, 16, 97);
+	color: white;
+}
+
+.bg-personalizado{
+	background:rgb(1, 16, 97);		
+}
+
+.whatsapp-link{
+    height: 50px;
+    position:fixed;
+    bottom: 35px;
+    right: 10px;
+    z-index:99999;"
+}
+
+.iconTextColor{
+ color: rgb(72, 95, 224);
+}
+
+.fundoColor{
+	background-color: rgb(72, 95, 224);
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+#logo-zap{
+	height: 60px;
+}
+
+#logoGJ{
+	width: 15rem;
+}
+
+html {
+	font-size: 1rem;
+  }
+  
+  @include media-breakpoint-up(sm) {
+	html {
+	  font-size: 1.2rem;
+	}
+  }
+  
+  @include media-breakpoint-up(md) {
+	html {
+	  font-size: 1.4rem;
+	}
+  }
+  
+  @include media-breakpoint-up(lg) {
+	html {
+	  font-size: 1.6rem;
+	}
+
+
+/*style="background-color: rgb(1, 16, 97)";*/
